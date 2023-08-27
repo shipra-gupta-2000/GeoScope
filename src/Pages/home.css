@@ -1,0 +1,6 @@
+.aboutBox{
+    width:80%;
+    margin:0 auto;
+    display:grid;
+    justify-content: center;
+}
